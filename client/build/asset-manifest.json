@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67ea29fb.css",
+    "main.js": "/static/js/main.ef16a152.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/gstechLogo.png": "/static/media/gstechLogo.d84c884b3361c05e8005.png",
+    "static/media/POSLogo.png": "/static/media/POSLogo.b0d5af729e7a177db06a.png",
+    "index.html": "/index.html",
+    "main.67ea29fb.css.map": "/static/css/main.67ea29fb.css.map",
+    "main.ef16a152.js.map": "/static/js/main.ef16a152.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ea29fb.css",
+    "static/js/main.ef16a152.js"
+  ]
+}
